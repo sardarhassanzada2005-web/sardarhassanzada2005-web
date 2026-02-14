@@ -11,7 +11,7 @@ Curious, challenge-driven, and motivated. Exploring the world of web development
 * 🌍  I'm based in Afghanistan
 * 🖥️  See my portfolio at [sardar.com](http://sardar.com)
 * ✉️  You can contact me at [sardarhassanzada2005@gmail.com](mailto:sardarhassanzada2005@gmail.com)
-* 🧠  I'm currently learning TypeScript next level React
+* 🧠  I'm currently learning Advanced JavaScript next level TypeScript
 * ⚡  Time isn't gold, time is life
 
 ### Skills
