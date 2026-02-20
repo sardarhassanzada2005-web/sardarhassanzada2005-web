@@ -18,6 +18,7 @@
 
     - Todo App ( JS fundamentals and LocalStorage )
     - Weather App ( API usage and async logic )
+    - Animated Login ( CSS animation, UI, UX ) 
 
 ### Contact     _sardarhassanzada2005@gmail.com_
     
