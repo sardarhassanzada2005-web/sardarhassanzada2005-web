@@ -4,12 +4,12 @@
     clean and interactive web interfaces using JavaScript.
 
     -  Highly motivated to start an Ausbildung in Germany
-    -  Skills: HTML5, CSS3, JavaScript fundamentals
+    -  Skills: HTML5, CSS3, JavaScript, React fundamentals
     -  Learning through practice and real projects
     -  Interested in long-term learning and growth
 
 ### What I am working on
-    - Building small projects using HTML, CSS, and JavaScript
+    - Building small projects using HTML, CSS, JavaScript and React
     - Practcing DOM manipulation and basic application logic
     - Working with REST APIs and asynchronous JavaScript
     - Improving code structure and readability
